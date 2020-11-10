@@ -1,0 +1,5 @@
+[deps]
+Mocking = "78c3b35d-d492-501b-9361-3d52fe80e533"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TestSetExtensions = "98d24dd4-01ad-11ea-1b02-c9a08f80db04"
