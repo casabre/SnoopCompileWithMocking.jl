@@ -4,7 +4,7 @@ This repository is just intended as a example project using Mocking in unit test
 
 ## Execution of SnoopCompileBot
 
-Running SnoopCompileBot on the project leads to the following error
+Running SnoopCompileBot leads to the following error
 
 ```julia-repl
 [ Info: Processsing the generated precompile signatures
